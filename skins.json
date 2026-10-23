@@ -1,0 +1,14 @@
+{
+  "skins": [
+    {
+      "id": "layla_the_beacon",
+      "name": "Layla - The Beacon",
+      "hero": "Layla",
+      "role": "Marksman",
+      "image": "https://shadowultra.site/skins/img/layla.jpg",
+      "zip": "https://shadowultra.site/skins/zips/layla.zip",
+      "version": "1.0",
+      "size": "37.99 MB"
+    }
+  ]
+}
